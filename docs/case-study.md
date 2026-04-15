@@ -27,10 +27,10 @@ The core problem was to determine whether Olist’s marketplace performance refl
 The transformation workflow focused on converting a raw public ecommerce dataset into a usable marketplace intelligence model. Relevant tables were selected and cleaned, relationships were structured across orders, order items, products, sellers, and customers, and Portuguese category labels were translated into English for reporting clarity. A dedicated Date table was added to support time-based analysis, and DAX measures were developed for revenue, order volume, seller breadth, revenue share, and concentration metrics. The final output was organized into a two-page dashboard designed to separate executive-level performance monitoring from deeper driver analysis.
 
 **Initial Model State**  
-[Insert image: `../images/initial-model-state.png`]
+![Initial Model State](../images/initial-model-state.png)
 
 **Final Analytical Model**  
-[Insert image: `../images/final-analytical-model.png`]
+![Final Analytical Model](../images/final-analytical-model.png)
 
 - Selected and narrowed the Olist tables to the entities most relevant for marketplace revenue analysis  
 - Structured relationships across orders, order items, products, sellers, and customers to support seller- and category-level reporting  
@@ -42,10 +42,10 @@ The transformation workflow focused on converting a raw public ecommerce dataset
 The dashboard was built to move from topline visibility to deeper concentration analysis. The first page, **Executive Overview**, summarizes marketplace scale, activity trends, and concentration signals in one view. The second page, **Marketplace Driver Analysis**, supports closer inspection of seller and category contribution through ranking and comparison views. Together, these pages make it easier to judge whether Olist’s marketplace growth is broadly supported or increasingly shaped by narrower revenue drivers.
 
 **Executive Overview**  
-[Insert image: `../images/executive-overview.png`]
+![Executive Overview](../images/executive-overview.png)
 
 **Marketplace Driver Analysis**  
-[Insert image: `../images/marketplace-driver-analysis.png`]
+![Marketplace Driver Analysis](../images/marketplace-driver-analysis.png)
 
 - **Executive Overview** brings together marketplace scale, concentration signals, and activity trends in a single top-level view  
 - **Marketplace Driver Analysis** breaks performance down further through seller- and category-level ranking and contribution views  
