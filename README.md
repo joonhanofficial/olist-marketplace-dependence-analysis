@@ -18,7 +18,10 @@ This analysis uses the public Olist Brazilian ecommerce dataset to evaluate mark
 Power BI, DAX, Data Modeling
 
 ## Dashboard Preview
+
 ![Executive Overview](images/executive-overview.png)
+
+Power BI source file: dashboard/olist-marketplace-dependence-analysis.pbix
 
 ## Key Insights
 - Top 10 sellers contributed **13.15%** of total revenue, showing meaningful but non-extreme seller concentration
