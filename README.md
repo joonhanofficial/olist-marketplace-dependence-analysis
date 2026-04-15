@@ -24,5 +24,5 @@ Power BI, DAX, Data Modeling
 - Overall, marketplace growth appeared broad enough to show meaningful participation, while still shaped by leading sellers and categories
 
 ## Full Documentation
-[Full Case Study](docs/case-study.md)
-[Analytical Process](docs/analytical-process.md)
+- [Full Case Study](docs/case-study.md)
+- [Analytical Process](docs/analytical-process.md)
